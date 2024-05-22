@@ -31,7 +31,12 @@ App Canva
 ```
 2. Abra seu navegador e vá para http://localhost:8080.
 
-Contribuição
+## Para configurar
+Depois de ter feito tudo isso seu app estará quase pronto faltando apenas suas configurações no arquivo `src/app.tsx` que é onde fica localizado o seu código 
+
+aqui eu apenas coloquei o app.tsx por que só alterei ele
+
+## Contribuição
 Se você quiser contribuir para este projeto, siga estas etapas:
 
 ## Faça um fork do projeto
